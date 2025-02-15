@@ -256,7 +256,7 @@ body.mobile-mode {
     <button id="btn-idioma" onclick="changeLanguage()">Mudar Idioma</button>
     <!-- Link em forma de barra sem margens com dois ícones -->
     <div class="barra-link">
-      <a href="#">
+      <a href="https://zonflux070.github.io/Mikasa-mi-Nzolu-/">
         <span class="icon-esq"><img class="menu-icon" src="/Aquatic Silhouette PNG Images, Octopus Logo Abstract Aggressive Aquatic, Insignia, Mascot, Creature PNG Image For Free Download.jpeg"></span>
         <span class="texto-barra">Mikasa mi Nzolu</span>
         <span class="icon-dir"><img class="menu-icon" src="/Evil octopus vector image on VectorStock.jpeg"></span>
